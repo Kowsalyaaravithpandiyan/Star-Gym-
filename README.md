@@ -1,6 +1,6 @@
 # Star-Gym-
 
-kowsalyaaravithpandiyan.github.io/Star-G
+https://kowsalyaaravithpandiyan.github.io/Star-Gym-/
 
 
 ![gym index](https://github.com/user-attachments/assets/e500648a-164b-4208-a615-bce4a99a3fae)
